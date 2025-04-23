@@ -1,0 +1,31 @@
+Nombre,Vida,Tipo,Daño,Tipo daño,Velocidad,Presicion,Evasion,PA,Recompensa,Habilidad,Texto,Bosque,Pradera,Desierto,Pantano,Montaña,Nevado,Rios y lagos,Mares,Columna1
+Fenix,40,Ave,60,Magico de fuego,12,18,12,20,2,Al morir el jugador que cobró la recompensa debe lanzar 1D6 y el fenix renacerá con 10 de vida por punto,-,0,0,5,0,10,0,0,0,0
+Jabalí,70,Bestia,15,Fisico,10,12,8,20,1,-,"Aunque los jabalis lurianos son malhumorados y territoriales no representan una gran amenaza para los viajeros experimentados, los novatos no corren con la misma suerte.",14,20,0,0,15,10,0,0,15
+Dragón de fuego,150,Dragón,50,Magico de fuego,14,22,12,30,6,"Sus golpes criticos producen un contador acumulable de ""En llamas"".",-,0,0,1,0,1,0,0,0,59
+Serpiente,20,Bestia,10,Fisico,15,14,12,20,1,"Los ataques provocan ""envenenamiento"".",-,10,0,20,10,10,0,10,0,2
+Mantis,1,Insecto,5,Fisico,12,14,10,20,1,-,"Bicho muy poco peligroso, pero que se vende a buen precio, los niños suelen cazarlos para hacerse de unas monedas.",10,15,5,0,10,0,0,0,60
+Araña gigante,80,Insecto,10,Fisico,10,12,13,20,2,"Los ataques provocan ""envenenamiento"".",-,0,0,15,0,20,0,0,0,40
+Golem,500,Roca,60,Fisico,1,8,1,25,10,"Si el dado de presicion del golem es 6 el ataque no puede fallar ni ser bloqueada, adicionalmente todas las unidades en un rango de 2 reciben 2D6 de daño magico de tipo tierra por el terremoto.",-,0,0,1,0,1,1,0,0,35
+Fuego Fatuo,1,Fantasma,0,Ninguno,15,14,10,20,1,"Cuando esta criatura ataca se autodestruye provocando 30 de daño magico de fuego en un rango 2 y provocando un contador de ""en llamas"".",-,0,0,10,10,0,5,5,10,3
+sectaria,80,Persona,20,TRUE,12,14,10,30,4,"Al atacar si el dado de presicion cae 5 provoca ""enamoramiento"", si cae 6 provoca ""Condena"".",Las sectarias son dicipulos de la Diosa de la discordia que a cambio de segar el dolor de los corazones rotos les da belleza y poder.,0,0,5,7,0,5,0,2,40
+Ogro,200,Demonio,35,Fisico,8,14,11,20,5,"Sus golpes criticos producen ""condena 3"". Si la unidad ya esta condenada, en lugar de eso remueve un contador de condena","Aparecieron un mal día en Lurix, son criaturas que se cree que emergieron del submundo y desde entonces son una plaga que todos los reinos buscan erradicar.",0,0,0,7,0,0,0,0,19
+Hada,10,Hada,10,Magico Sacro,10,4D6,17,20,1,-,"Criaturas con una triste historia, llegaron para ayudar y terminaron vagando como bestias salvajes.",8,12,0,8,0,5,5,3,7
+Cocodrilo,90,Bestia,55,Fisico,10,12,6,20,3,-,Tiene la mordida mas fuerte del reino animal. Pero no de la naturaleza.,0,0,0,10,0,0,10,15,41
+Fantasma,50,Fantasma,30,Magico oscuro,8,13,8,20,2,Es inmune a ataques fisicos.,Almas atormentadas que no pueden seguir su camino,0,0,10,10,0,5,15,10,35
+Anguila,30,Bestia,25,Magico electrico,12,13,12,20,2,-,Sus descargas son capaces de freir hasta 1kg de carne en un segundo… hay quienes las usan para eso.,0,0,0,10,0,0,20,20,50
+Langosta asesina,10,Bestia,5,Fisico,12,14,10,20,1,"Si un ataque basico llega a infringir daño provoca ""Condena 4"".",-,8,10,0,8,0,0,0,8,50
+Piraña,20,Bestia,10,Fisico,12,18,17,20,1,-,En Lurix la carne de piraña es considerada una delicatesen.,0,0,0,0,0,0,15,15,34
+Tiburón,90,Bestia,45,Fisico,9,12,9,20,3,-,"Los tiburones han sido desde siempre una especie tan perfecta y adaptable que no son muy diferentes en distintas epocas, ni en distintas realidades.",0,0,0,0,0,0,0,15,30
+Caimán,80,Bestia,45,Fisico,7,11,6,20,3,-,Aunque mas debiles que los cocodrilos su piel u dientes se venden al mismo precio.,0,0,0,10,0,0,15,0,15
+Yeti,180,Bestia,35,Fisico,6,15,10,20,5,"Sus ataques provocan ""congelación"".","Son para los viajeros una amenaza tan grande como un ogro pero a diferencia de ellos que son un peligro para el ecosistema, los yetis son parte de él.",0,0,0,0,0,5,0,0,25
+Halcón,40,Bestia,10,Fisico,16,15,15,20,1,-,"Sus garras son cortas pero eficaces, mientras tengas la armadura adecuada no deberian ser un problema.",10,6,0,0,15,15,0,0,5
+Lobo Blanco,40,Bestia,25,Fisico,13,13,14,20,1,"Al final del tercer de estar ""en combate"" esta criatura usa su aullido para atraer al combate a otro lobo nevado de la manada hasta un maximo de 5.",-,0,0,0,0,0,20,0,0,46
+Dragón de hielo,150,Dragón,50,Magico de Hielo,14,22,12,30,6,"Sus ataques provocan ""congelación"".",-,0,0,0,0,0,2,0,0,20
+Escorpión,10,Insecto,5,Fisico,6,17,18,20,1,"Los ataques provocan ""envenenamiento"".",-,10,0,10,0,0,0,0,0,2
+Planta Carnivora,10,Planta,3,Fisico,9,22,0,20,1,"Los ataques provocan ""envenenamiento"".",-,10,5,10,10,0,0,5,0,20
+Toro Carnivoro,150,Bestia,60,Fisico,10,13,8,20,4,-,Los toros carnivorros son una especie salvaje de Lurix muy fuerte que se les llega a ver devorando osos o leones.,0,5,0,0,0,0,0,0,40
+tigre,90,Bestia,50,Fisico,15,14,15,20,3,-,-,5,0,0,0,0,10,0,0,5
+Lobo,30,Bestia,15,Fisico,12,12,14,20,1,-,-,10,20,3,0,15,5,0,0,15
+Unicornio,90,Bestia,60,Hibrido,10,14,10,20,3,Su daño es la mitad en magico sacro y la mitad en fisico.,-,0,5,0,0,0,5,0,0,53
+Aguila,60,Bestia,20,Fisico,16,15,15,20,4,-,"Son dificiles de encontrar y muy valiosas, sus plumas, pico y garras se venden a buen precio.",0,2,5,0,3,3,0,2,10
+Oso,120,Bestia,45,Fisico,8,12,8,20,3,-,-,5,0,0,0,0,4,0,0,15

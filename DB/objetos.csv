@@ -1,0 +1,99 @@
+Nombre,Clases sugeridas,Desbonificacion por clase,Daño,Presicion,Peso,Tipo 1,Tipo 2,Tipo 3,Tipo 4,Agarre,Alma,Maná,Inteligencia,resitencia magica,Armadura,Precio,Efecto,Descripcion,grado
+Hacha del verdugo ,Hachero,"peso +6, presicion -3",35,3,14,arma,cuerpo a cuerpo ,Hacha,,2 manos ,,,,,,120,los golpes críticos aturden ,"Un hacha dejada atrás por Zeyel, también conocido cómo el gran verdugo, un poderoso brujo guerrero que desapareció misteriosamente.",5
+Hacha arrojadiza de entrenamiento ,Aprendiz de hachas,presicion -2,7,1,1,arma,arrojadiza ,Hacha,,1 mano,,,,,,20,,,1
+hacha de acero ,Aprendiz de hachas,"peso +4, presicion -1",14,2,4,arma ,cuerpo a cuerpo ,Hacha ,,1 mano ,,,,,,40,,,2
+Hacha doble de mano,lanzador de hechas ,no puede ser arrojada ,16,2,2,arma,arrojadiza ,Hacha,,1 mano ,,,,,,50,,,2
+Hacha de hierro ,Aprendiz de hachas ,peso +2,9,1,3,arma ,cuerpo a cuerpo ,Hacha,,1 mano ,,,,,,20,,,1
+Rompe almas ,aprendiz de hachas ,"peso +5, presicion -2",10,1,5,arma ,cuerpo a cuerpo ,hacha,,1 mano ,,,,,,45,"El daño infringido con esta arma se calcula cómo mágico, +5 de daño critico",,2
+Hacha de mitrilo,aprendiz de hachas ,"peso +10, presicion -2",18,2,5,arma ,cuerpo a cuerpo ,Hacha,,1 mano ,,,,,,70,"con dado de presión en 5 o 6 se recupera 5PA, si fue una acometida se recupera 10PA",,3
+Hurlbat,aprendiz de hachas ,"peso +12, presión -2",20,3,7,arma ,cuerpo a cuerpo ,Hacha,,1 mano,,,,,,105,los golpes críticos infringen +15 de daño,,4
+Cuadracañonera,cadete,"-4 presión, +10PA para recargar ",35,3,2,arma,Tiro,pistola ,recargable,1 mano ,,,,,,120,cuesta +5PA recargarla pero los efectos de impacto incluyendo el daño crítico se aplica 4 veces.,,4
+Rifle de rueda,cadete,-5 presicion ,25,4,3,arma,tiro,rifle,recargable ,2 manos ,,,,,,100,El daño critico se duplica,,3
+Pistola de percusión ,cadete,"-2 presicion, +5PA para recargar ",19,1,1,arma,Tiro,pistola ,recargable ,1 mano ,,,,,,50,,,2
+Arcabús,cadete,"-4 presicion, +5PA para recargar ",14,3,3,arma ,Tiro ,rifle ,recargable ,2 manos ,,,,,,30,,,1
+Carabina,cadete ,"-4 presicion, +5PA para recargar ",19,3,3,arma ,Tiro,rifle ,recargable ,2 manos ,,,,,,65,,,2
+Pistola de chispa ,cadete ,"-2 presicion, +5PA para recargar ",14,1,1,arma ,Tiro ,pistola ,recargable ,1 mano ,,,,,,20,,,1
+Trabuco de mano,cadete ,"-3 presicion, +5PA para recargar ",24,2,1,arma ,Tiro,pistola ,recargable ,1 mano ,,,,,,85,Los golpes críticos infringen +5 de daño,,3
+Rifle clásico ,cadete ,"-5 presicion, +5PA para recargar ",35,4,3,arma ,Tiro ,rifle ,recargable ,2 manos ,,,,,,130,Si no te has movido ningún espacio este turno obtienes +10 presicion ,,4
+Espada de hierro ,Aprendiz de espadas,presicion -2,7,2,2,arma ,cuerpo a cuerpo ,Espada,,1 mano ,,,,,,25,,,1
+Espada de mitrilo ,aprendiz de espadas ,"peso +10, presicion -2",18,7,4,arma,cuerpo a cuerpo ,Espada ,,1 mano ,,,,,,100,con dado de presicion en 5 o 6 los ataques son ineludibles ,,3
+Rama de manzágora,,,,2,1,arma,Bara ,,,1 mano ,3,30,,,,10,,,1
+Hidro gota,mago de agua,"sin habilidades, -70 maná",,3,4,arma,bastón ,,,2 manos,6,70,6,,,60,restauras vida equivalente a la mitad del maná gastado en hechizos de agua.,,2
+Elemangual,adepto elemental,"maná -50, inteligencia -4",,2,3,arma,bastón ,,,2 manos ,12,50,4,,,90,,,3
+Sun Rak Sol,adepto elemental ,"alma -5, maná -10",,1,1,arma,Bara ,,,1 mano ,5,10,12,,,60,,,2
+Cáliz de fuego ,brujo de fuego ,"-200 maná, -2 presicion ",,,5,arma,bastón ,,,2 manos,18,200,18,,,120,,,4
+Rodela,,,2,,3,armadura,arma,escudo,,1 mano ,,,,,5,30,,,1
+Escudo,,,3,1,4,armadura ,arma,escudo,,1 mano ,,,,,8,40,,,2
+Targe,caballero o guerrero ,"sin habilidades, armadura -2",4,1,5,armadura ,arma ,escudo ,,1 mano ,,,,2,10,60,bloqueo +1,,3
+broquel ,,,5,1,1,armadura ,arma,escudo ,,1 mano ,,,,2,3,50,,,2
+Blasón ,,,3,1,5,armadura ,arma ,escudo ,,1 mano ,,,,3,14,60,,,3
+Shamshir,maestro espadachín ,"sin habilidades, -4 presicion ",17,5,4,arma,cuerpo a cuerpo ,espada,,1 mano ,,,,,,80,infringe el doble de daño crítico ,,3
+Joyeuse (filo sacro),aprendiz de espadas ,"sin habilidades, -5 daño",8,2,3,arma,cuerpo a cuerpo ,espada ,,1 mano ,,,,,,45,"El daño infringido con esta arma 
+p calcula cómo mágico ",,2
+Espadón,caballero o guerrero ,"sin habilidades, peso +10",25,3,6,arma,cuerpo a cuerpo ,espada,,2 manos ,,,,,,90,con dado de presicion 6 o si es bloqueada provoca aturdimiento ,,3
+Espada de acero ,aprendiz de espadas ,"presicion -2, daño -2",11,4,3,arma ,cuerpo a cuerpo ,espada,,1 mano ,,,,,,55,,,2
+Claymore ,aprendiz de espadas ,"peso +10, presicion -10",25,10,5,arma ,cuerpo a cuerpo ,espada ,,1 mano ,,,,,10,150,,,4
+Excalibur ,Paladín,Recibes el mismo daño que infrinjas en mágico sacro ,30,4,8,arma,cuerpo a cuerpo ,espada,,2 manos ,,,,,,180,"puedes elegir si infringir el daño cómo físico o cómo mágico sacro. Sacrificio sagrado (si tienes 1 de vida puedes elegir sacrificarte y para tú siguiente ataque ganas +30 daño y +20 de presicion, pero recibes 1 de daño verdadero)",,5
+Palo salvaje ,adepto salvaje ,los ataques básicos cobran 20 de maná adicionales ,5,2,4,arma,cuerpo a cuerpo ,mazo,,1 mano ,5,20,,,,40,,,1
+mazo salvaje ,adepto salvaje ,los ataques básicos cobran 30 de maná adicionales ,10,2,5,arma,cuerpo a cuerpo ,mazo,,1 mano,10,30,,,,70,,,2
+Macuahuitl salvaje ,adepto salvaje ,los ataques básicos cobran 40 de maná adicionales ,15,3,7,arma ,cuerpo a cuerpo ,mazo,,2 manos ,20,50,,,,150,Puedes colocar 4 contadores de salvajismo por 30 de maná.,,4
+espíritu de la naturaleza ,,,10,2,1,arma ,cuerpo a cuerpo ,mazo ,,1 mano ,,50,,,,50,,,2
+Arco de tiro,aprendiz de arcos,presicion -6,13,4,3,arma,Tiro,arco,recargable ,2 manos,,,,,,80,Con dado de presicion 5 o 6 ganas +2 de presicion hasta tu siguiente fin de turno.,,3
+arco profesional ,aprendiz de arcos ,presicion -6,10,3,2,arma,Tiro,arco,recargable ,2 manos ,,,,,,45,,,2
+ballesta clásica,ballestero,"-2 presicion, +5PA para recargar ",19,2,4,arma ,Tiro ,ballesta ,recargable ,1 mano ,,,,,,45,,,2
+kikio,aprendiz de arcos ,"sin habilidades, -2 presicion ",7,2,3,arma,Tiro,arco ,,2 manos ,,,,,,45,"puedes gastar 5 de maná para infringir daño mágico, este arco no necesita recargarse",,2
+arco clásico ,aprendiz de arcos ,"-2 presicion, +5PA para recargar ",6,2,1,arma,Tiro ,arco,recargable ,2 manos ,,,,,,25,,,1
+ballesta profesional ,ballestero ,"-2 presicion, +5PA para recargar ",24,3,5,arma ,Tiro ,ballesta ,recargable ,1 mano ,,,,,,70,Con dado de presicion 5 o 6 el ataque obtiene +15 penetración de armadura.,,3
+Arco Recurvo,aprendiz de arcos ,"-2 presicion, +5PA para recargar ",19,7,4,arma ,Tiro ,arco ,recargable ,2 manos ,,,,,,120,El daño crítico se duplica,,4
+destazador,aprendiz de navajas,-18 daño,18,2,1,arma,cuerpo a cuerpo ,navaja ,,1 mano ,,,,,,120,50 penetración de armadura ,,4
+Kusarigama,ninja,presicion -20,17,3,2,arma,cuerpo a cuerpo ,navaja ,,2 manos ,,,,,,60,los golpes críticos desequipan el arma del oponente.,,3
+Napulc,aprendiz de navajas ,-12 daño,12,2,3,arma,cuerpo a cuerpo ,navaja ,,1 mano,,,,,,50,daño crítico +2 por dado,,2
+Botas de hierro ,,,,,3,armadura ,botas,,,,,,,1,4,30,"PA +5, velocidad +1",,1
+Botas de cuero ,,,,,1,armadura ,botas,,,,,,,,,10,"PA +5, velocidad +2",,1
+Babuchas,,,,,1,armadura ,botas ,,,,,,,3,1,30,"PA +5, velocidad +1",,1
+Bo,,,3,2,1,arma ,cuerpo a cuerpo ,bastón ,,1 mano ,,,,,,15,,,1
+Mayal,,,12,3,4,arma,cuerpo a cuerpo ,,,1 mano ,,,,,,50,,,2
+cuchillo de cocina ,,,3,1,1,arma,herramienta ,,,1 mano ,,,,,,10,acampar cuesta -2 PA,,0
+Poción ,,,,,,consumible,,,,,,,,,,10,restaura 30 de vida,,0
+Ether,,,,,,consumible ,,,,,,,,,,10,restaura 40 de maná ,,0
+Mazo bridado,,,13,4,4,arma,cuerpo a cuerpo ,mazo ,,1 mano ,,,,,,90,los golpes críticos provocan aturdimiento ,,3
+Machete del abuelo ,,,15,3,6,arma ,cuerpo a cuerpo ,machete ,,1 mano ,,,,,,100,Daño x3 contra demonios y unidades de tipo oscuro ,"Aún tiene rastros de la sangre del diablo cuando mi abuelo lo venció en el cerro hace muchos años, se ve ligero, pero pesa por su legado.",3
+Estrella de la mañana ,,,21,4,5,arma,cuerpo a cuerpo ,mazo ,,1 mano ,,,,,,135,los golpes críticos producen aturdimiento. Los efectos de impacto incluyendo el daño crítico se aplica 3 veces.,,4
+Navaja de cacería ,,,3,1,1,arma ,cuerpo a cuerpo ,navaja ,herramienta ,1 mano ,,,,,,15,acampar cuesta -3 PA,,1
+Repelente de monstruos ,,,,,1,consumible ,,,,,,,,,,10,provoca que cualquier criatura no jugador abandone la partida.,,1
+Anillo de rubí ,,,,,1,accesorio,,,,,,20,,,,20,"restaura 10 de vida cada principio de turno, +20 de vida",,1
+Runa física ,,,,1,1,accesorio ,,,,,,,,,,130,"fuerza +10, carga +4, velocidad +2",,4
+Anillo de vida,,,,,1,accesorio ,,,,,15,15,,,,95,"25 de vida, 5 de regeneración de vida cada principio de turno.",,1
+zafiro Mágico ,,,,,,accesorio ,,,,,10,,,,,30,,,1
+Margojo,adepto oscuro ,-100 maná ,,2,4,arma ,bastón ,,,2 manos ,6,80,8,,,85,mientras no estés atacando tu y tus invocaciones ganan Fuerza igual a tu inteligencia ,,3
+Martillo oscuro ,adepto oscuro ,evasión -10,5,2,2,arma,cuerpo a cuerpo ,mazo ,,1 mano ,3,25,3,,,50,,,2
+María ,aprendiz de lanza ,"sin habilidades, -5 daño",12,3,4,arma ,cuerpo a cuerpo ,lanza,,1 mano,,,,,,50,"El daño infringido con esta arma 
+p calcula cómo mágico ",,2
+Pilum,peltasta,daño -14,14,3,1,arma,arrojadiza ,lanza,,1 mano,,,,,,50,,,3
+,peltasta,"sin habilidades, -3 presicion ",28,3,5,arma,arrojadiza ,lanza,,1 mano,,,,,,150,Puedes transformar el daño físico en mágico de está arma por 15 de maná.,,4
+pica,piquero,"sin habilidades, daño -10",18,3,3,arma,cuerpo a cuerpo ,lanza ,,1 mano,,,,,,80,golpear a cualquier unidad con más de 15 de peso les hace perder 10PA,,3
+Jabalina ,aprendiz de lanza,daño -5,5,2,1,arma ,arrojadiza ,lanza,,1 mano,,,,,,20,,,1
+lanza de mitrilo ,aprendiz de lanza,"sin habilidades, -10 daño",18,4,3,arma,cuerpo a cuerpo ,lanza,,1 mano,,,,,,80,7 penetración de armadura.,,3
+lanza de acero ,aprendiz de lanza ,-8 daño,12,3,3,arma ,cuerpo a cuerpo ,lanza,,1 mano,,,,,,45,,,2
+lanza de hierro ,aprendiz de lanza,-5 daño,9,2,2,arma,cuerpo a cuerpo ,lanza,,1 mano,,,,,,25,,,1
+Túnica de pony salvaje ,,,,,2,armadura,túnica ,,,,,,,18,8,100,la primera vez que recibas un mismo hechizo de un mismo oponente durante la partida obtienes +70 de resistencia mágica hasta el final de ese turno.,,4
+armadura de cuero ,,,,,3,armadura ,coraza,,,,,,,3,6,20,,,1
+armadura de bronce ,,,,,5,armadura ,coraza,,,,,,,4,8,40,,,2
+túnica de seda,,,,,1,armadura ,túnica ,,,,,,,14,4,60,,,3
+túnica de manta,,,,,1,armadura ,túnica ,,,,,,,3,2,10,,,1
+túnica de lino,,,,,1,armadura ,túnica ,,,,,,,9,4,30,,,2
+armadura de mitrilo,,,,,6,armadura ,coraza,,,,,,,12,15,90,puedes reeolear una vez por turno el dado de remosión de estados,,4
+armadura de hierro ,,,,,6,armadura ,coraza,,,,,,,2,12,50,,,3
+armadura de escamas de dragones,,,,,6,armadura ,coraza ,,,,,,,22,16,130,cada que recibas cualquier cantidad de daño mágico restauras 10 de maná ,,4
+cota de malla ,,,,,2,armadura ,túnica ,,,,,,,3,5,40,,,2
+Ridec,aprendiz de navajas ,"sin habilidades, daño -3",5,3,2,arma,cuerpo a cuerpo ,navaja ,,1 mano ,,,,,,55,los críticos generan un contador de hemorragia ,,2
+colmillos,aprendiz de navajas ,"sin habilidades, daño -5",10,2,4,arma ,cuerpo a cuerpo ,navaja ,,2 manos ,,,,,,40,puedes dar un segundo golpe el mismo turno por sólo 10PA,,2
+Garras de gato ,aprendiz de navajas ,presicion -4,20,2,2,arma ,cuerpo a cuerpo ,navaja ,,2 manos ,,,,,,90,10 penetración de armadura ,,4
+cota de maya de phirix,,,,,3,armadura ,túnica ,,,,,,,12,14,100,otorga inmunidad a la hemorragia ,,4
+lágrima de vida,,,,3,4,arma,bastón ,,,2 manos ,15,30,10,,,95,,,3
+Xyston,aprendiz de lanzas,"sin habilidades, -10 daño",23,4,4,arma,cuerpo a cuerpo ,lanza,,1 mano ,,,,,,120,los golpes críticos tienen 15 de penetración de armadura ,,4
+botas cómodas ,,,,,1,armadura ,botas,,,,,,,,,30,"PA +5, velocidad +2",,2
+Invocadora,,,,,5,arma,bastón ,,,2 manos,9,80,6,,,100,"Toda invocación obtiene +30 vida, +10 daño, +1 presicion, +1 evasión, +8 armadura, +8 resistencia mágica ",,4
+Guitarra dañada,músico ,-2 inteligencia ,,1,4,arma,instrumento,,,2 manos,,,,,,1,al ejecutar melodías +2 de inteligencia ,,0
+Flauta hipnótica ,música ,-15 inteligencia ,,3,1,arma,instrumento ,,,1 mano,,,10,,,90,"hipnotizar: (5PA, sólo se puede usar una vez por turno) congela a la unidad afectada",,3
+Torsal de manzágora ,,,,1,3,arma,Bara ,,,1 mano,10,50,,,,40,,,2
